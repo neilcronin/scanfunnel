@@ -1,0 +1,4 @@
+scans/
+logs/
+config.env
+.DS_Store
