@@ -2,6 +2,3 @@ scans/
 logs/
 config.env
 .DS_Store
-
-# Local direnv settings
-.envrc
